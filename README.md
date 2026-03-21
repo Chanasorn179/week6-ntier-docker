@@ -14,7 +14,7 @@
 - 🗄️ Data Access Layer (Database)
 
 และใช้ **Docker** เพื่อรันแต่ละส่วนใน container แยกกัน  
-ช่วยให้ deploy และจัดการระบบได้ง่ายขึ้น  [oai_citation:0‡クラスメソッド発「やってみた」系技術メディア | DevelopersIO](https://dev.classmethod.jp/articles/command-docker-basic-to-use/?utm_source=chatgpt.com)  
+ช่วยให้ deploy และจัดการระบบได้ง่าย  
 
 ---
 
